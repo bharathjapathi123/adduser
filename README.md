@@ -39,3 +39,5 @@ project-folder/
 ├── style.css
 └── script.js
 
+-----
+
